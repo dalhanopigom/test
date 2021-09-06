@@ -1,6 +1,9 @@
 test tstt files
-a
+
+a2
 b
 c
-d
+d2
 rev. test
+
+close
